@@ -36,7 +36,7 @@ Python > 3.2
 
 ## Run 
 
-python Puzzel.py --rowls 12 --cols 12 --fileName Listwords.txt
+python Puzzel.py --rows 12 --cols 12 --fileName Listwords.txt
 
 ## Run Test
 
