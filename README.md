@@ -1,7 +1,7 @@
 # crosswordPuzzel
 
 
-#Requirements
+## Requirements
 
 Word searches are a fun (or tedious, depending on your personality) puzzle where words are
 hidden in a grid of seemingly random letters. Humans are fairly slow at solving word search
