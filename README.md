@@ -39,8 +39,14 @@ Requirement ::
 Python > 3.2
 
 
-##Running ::
+##Run 
+
 python Puzzel.py --rowls 12 --cols 12 --fileName Listwords.txt
+
+## Run Test
+
+python test_puzzel.py
+
 
 ##Command-line parameters
 
@@ -51,6 +57,3 @@ python Puzzel.py --rowls 12 --cols 12 --fileName Listwords.txt
 --fileName
 
 
-## Run Test
-
-python test_puzzel.py
