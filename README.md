@@ -45,10 +45,10 @@ python test_puzzel.py
 
 ## Command-line parameters
 
---rows
+--rows :: row size  {grid}
 
---cols
+--cols :: column size {grid}
 
---fileName
+--fileName :: file Name having list of words
 
 
