@@ -30,16 +30,11 @@ Things we like to see:
 Rules:
 ● Any version of Python greater than 2.7 or 3.4 may be used. 
 
-
-
-
-
-
-Requirement ::
+## Python version
 Python > 3.2
 
 
-##Run 
+## Run 
 
 python Puzzel.py --rowls 12 --cols 12 --fileName Listwords.txt
 
@@ -48,7 +43,7 @@ python Puzzel.py --rowls 12 --cols 12 --fileName Listwords.txt
 python test_puzzel.py
 
 
-##Command-line parameters
+## Command-line parameters
 
 --rows
 
